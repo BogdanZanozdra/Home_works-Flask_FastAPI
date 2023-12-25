@@ -1,0 +1,9 @@
+{% extends 'base.html' %}
+
+{% block main %}
+    <form action="/email_form/" method="post">
+        <input type="text" name="name" placeholder="Введите свое имя">
+        <input type="email" name="email" placeholder="Введите Email">
+        <input type="submit" value="Отправить">
+</form>
+{% endblock %}
