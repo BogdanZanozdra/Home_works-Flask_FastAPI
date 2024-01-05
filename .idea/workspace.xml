@@ -1,18 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="0c43cfd7-c3cb-4026-b5c8-fdd6c2b0956c" name="Changes" comment="" />
+    <list default="true" id="0c43cfd7-c3cb-4026-b5c8-fdd6c2b0956c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Home_work_3/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Home_work_3/task_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Home_work_3/templates/base.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Home_work_3/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Home_work_3/templates/marks.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Home_work_3/wsgi.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Home_works.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Home_works.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 7
-}]]></component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
   <component name="ProjectId" id="2ZlTNiK0rXUvGnM3wKfi1iT4aAd" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -22,10 +46,27 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/GIT/Flask/Home_works/Home_work_1"
+    "last_opened_file_path": "C:/GIT/Flask",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\GIT\Flask\Home_works\Home_work_3\template" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\GIT\Flask\Home_works\Home_work_3\templates" />
+      <recent name="C:\GIT\Flask\Home_works\Home_work_3" />
+      <recent name="C:\GIT\Flask\Home_works" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="-" />
+    </option>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">

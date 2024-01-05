@@ -1,0 +1,12 @@
+{% extends 'base.html' %}
+
+{% block main %}
+    <div class container-m3>
+        {% for student in students %}
+            <hr>
+            {{ student.name }} {{ student.last_name }}
+            <br>
+            {{ students.mark }}
+        {% endfor %}
+    </div>
+{% endblock %}
