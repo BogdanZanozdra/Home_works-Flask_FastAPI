@@ -27,10 +27,11 @@ async def tasks_list():
 
 
 @app.get('/tasks/{task_id}')
-async def get_task(task_id: int, task: Task):
-    filtered_tasks = [task for task in tasks if task.id == task_id]
-    task = filtered_tasks[0]
-    return {'task': task}
+async def get_task(task_id: int):
+    for task in tasks:
+        if task.id == task_id:
+            return task
+        return 'No such task id!'
 
 
 @app.post('/tasks/')
